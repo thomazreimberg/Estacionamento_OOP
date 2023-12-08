@@ -23,3 +23,6 @@ Uma van pode estacionar, mas ocupará 3 vagas de carro, ou uma vaga grande
 - Testes unitários para validação de fluxo.
 
 -> .NET 7
+
+Testes integrados ao git:
+![image](https://github.com/thomazreimberg/Estacionamento_OOP/assets/57465943/9922dbcc-7d11-49f0-8f6a-00d32336fa0e)
