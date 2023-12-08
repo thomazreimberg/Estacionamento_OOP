@@ -10,7 +10,7 @@ Objetivos: projetar um estacionamento usando princípios orientados a objetos
 - Diga-nos quando o estacionamento estiver vazio
 - Diga-nos quando certos lugares estão cheios, por exemplo quando todas as vagas de moto são ocupadas
 - Diga-nos quantas vagas as vans estão ocupadas
-- 
+
 ## Orientações:
 
 - O estacionamento pode acomodar motos, carros e vans
